@@ -1,11 +1,3 @@
---[[
-	// Author: @incognito.tab > Discord
-	// Description: I dont know, i dont know, i dont know, i dont know, i dont know.
-
-	// Time: 03/13/2024 4:48 AM
-	// Extra: Discord.gg/PfXgy5Nq34
-]]
-
 local Success, Result              				= pcall(request, {
 	Url                             			= "https://github.com/lncoognito/ROBLOX/raw/main/Boobs/Main.lua",
 	Method                          			= "GET"
